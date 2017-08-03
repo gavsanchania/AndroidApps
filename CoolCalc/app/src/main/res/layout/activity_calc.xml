@@ -82,7 +82,7 @@
         android:layout_marginStart="125dp"
         android:layout_marginTop="73dp"
         android:text="TextView"
-        tools:text="test" />
+        tools:text="testing" />
 
 
 </android.widget.RelativeLayout>
